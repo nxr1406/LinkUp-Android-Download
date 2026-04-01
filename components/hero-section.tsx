@@ -49,7 +49,7 @@ export function HeroSection() {
         <div className="mt-6 flex items-center justify-center gap-4 text-sm text-linkup-secondary">
           <span className="flex items-center gap-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-linkup-secondary/50" />
-            Version 1.0.0
+            Version 2.1
           </span>
           <span className="flex items-center gap-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-linkup-secondary/50" />
