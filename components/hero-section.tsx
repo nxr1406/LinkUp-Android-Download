@@ -37,7 +37,7 @@ export function HeroSection() {
 
         {/* Download Button */}
         <a
-          href="/LinkUp_v1.0.apk"
+          href="/LinkUp_v2.1.apk"
           download
           className="group inline-flex items-center gap-3 rounded-full bg-linkup-accent px-8 py-4 text-base font-semibold text-white shadow-lg shadow-linkup-accent/30 transition-all duration-300 hover:bg-blue-600 hover:shadow-xl hover:shadow-linkup-accent/40 active:scale-95 md:text-lg"
         >
